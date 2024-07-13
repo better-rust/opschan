@@ -33,7 +33,7 @@ Breakdown of core configuration:
 
 Breakdown of ``monitor``:
 | Keyword|Description|
-|-|-|-|
+|-|-|
 |``keywords``|List of regex words to check the message of the journald's entry|
 |``identifier``|List of regex words to check the message of the journald's identifier|
 |``tags``|List of tags for the opsgenie alert|
